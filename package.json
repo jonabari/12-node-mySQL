@@ -1,0 +1,26 @@
+{
+  "name": "12-node-mySQL",
+  "version": "1.0.0",
+  "description": "Trilogy Assignment #12 - node.js &amp; my SQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonabari/12-node-mySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonabari/12-node-mySQL/issues"
+  },
+  "homepage": "https://github.com/jonabari/12-node-mySQL#readme",
+  "dependencies": {
+    "cli-table3": "^0.5.1",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {}
+}
